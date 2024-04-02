@@ -1,3 +1,6 @@
+# Sistema de Calculadora de Salário Líquido
+Este projeto consiste em um sistema web desenvolvido em React como parte da disciplina de Programação para Web do 5º semestre do curso de Ciência da Computação. O sistema possui um menu público com opção de login e um menu privado com acesso à calculadora de salário líquido.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
